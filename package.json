@@ -1,0 +1,21 @@
+{
+  "devDependencies": {
+    "@babel/preset-env": "^7.15.6",
+    "jest": "^27.2.1",
+    "webpack": "^5.53.0",
+    "webpack-cli": "^4.8.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "name": "jest-getting-started",
+  "version": "1.0.0",
+  "main": "functions.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "eslint": "^7.32.0"
+  }
+}
