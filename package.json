@@ -14,8 +14,19 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Test driven development practice using Jest.",
   "dependencies": {
     "eslint": "^7.32.0"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonro2955/odin_javascript_6_jest_practice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonro2955/odin_javascript_6_jest_practice/issues"
+  },
+  "homepage": "https://github.com/jonro2955/odin_javascript_6_jest_practice#readme"
 }

@@ -1,11 +1,7 @@
+/* The reverseString function takes a string and returns it reversed. */
+
 function reverseString(string) {
-  let arr = [],
-    num = string.length - 1;
-  for (let i = 0; i < string.length; i++) {
-    arr[i] = string[num];
-    num--;
-  }
-  return arr.join('');
+  return string.split("").reverse().join("");
 }
 
 module.exports = reverseString;
